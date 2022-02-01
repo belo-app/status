@@ -8,9 +8,9 @@ sites:
 
 status-website:
   cname: status.belo.app
-  # baseUrl: /status
   logoUrl: https://www.belo.app/images/belo.svg
-  name: belo
+  favicon: https://www.belo.app/images/favicon.png
+  name: ""
   introTitle: ""
   introMessage: ""
   navbar:
