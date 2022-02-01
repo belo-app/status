@@ -10,7 +10,7 @@ status-website:
   cname: status.belo.app
   logoUrl: https://www.belo.app/images/belo.svg
   favicon: https://www.belo.app/images/favicon.png
-  theme: dark
+  theme: night
   name: ""
   introTitle: ""
   introMessage: ""
