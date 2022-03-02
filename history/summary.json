@@ -4,19 +4,19 @@
     "url": "https://beta.belo.app/health",
     "icon": "https://favicons.githubusercontent.com/beta.belo.app",
     "slug": "belo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 336,
-    "timeDay": 194,
-    "timeWeek": 211,
-    "timeMonth": 353,
-    "timeYear": 336,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 335,
+    "timeDay": 219,
+    "timeWeek": 219,
+    "timeMonth": 351,
+    "timeYear": 335,
     "dailyMinutesDown": {
-      "2022-03-02": 0
+      "2022-03-02": 4
     }
   }
 ]
