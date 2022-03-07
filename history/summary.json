@@ -4,7 +4,7 @@
     "url": "https://beta.belo.app/health",
     "icon": "https://favicons.githubusercontent.com/beta.belo.app",
     "slug": "belo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 202,
     "timeMonth": 320,
     "timeYear": 317,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-07": 0
+    }
   }
 ]
