@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/api.belo.app",
     "slug": "belo",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.96%",
-    "time": 577,
-    "timeDay": 233,
-    "timeWeek": 394,
-    "timeMonth": 731,
-    "timeYear": 577,
+    "uptimeYear": "99.97%",
+    "time": 571,
+    "timeDay": 192,
+    "timeWeek": 309,
+    "timeMonth": 732,
+    "timeYear": 571,
     "dailyMinutesDown": {
       "2022-03-11": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 143,
-    "timeDay": 81,
-    "timeWeek": 143,
-    "timeMonth": 143,
-    "timeYear": 143,
+    "time": 139,
+    "timeDay": 102,
+    "timeWeek": 140,
+    "timeMonth": 139,
+    "timeYear": 139,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 63,
-    "timeWeek": 188,
-    "timeMonth": 188,
-    "timeYear": 188,
+    "time": 179,
+    "timeDay": 106,
+    "timeWeek": 172,
+    "timeMonth": 179,
+    "timeYear": 179,
     "dailyMinutesDown": {}
   }
 ]
