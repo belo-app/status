@@ -4,7 +4,7 @@
     "url": "https://api.belo.app/health",
     "icon": "https://favicons.githubusercontent.com/api.belo.app",
     "slug": "belo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
     "uptimeDay": "98.75%",
     "uptimeWeek": "97.85%",
