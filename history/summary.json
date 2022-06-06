@@ -28,18 +28,20 @@
     "url": "https://api.getmati.com/health",
     "icon": "https://favicons.githubusercontent.com/api.getmati.com",
     "slug": "meta-map",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 157,
-    "timeDay": 112,
-    "timeWeek": 164,
-    "timeMonth": 188,
-    "timeYear": 157,
-    "dailyMinutesDown": {}
+    "time": 156,
+    "timeDay": 99,
+    "timeWeek": 154,
+    "timeMonth": 185,
+    "timeYear": 156,
+    "dailyMinutesDown": {
+      "2022-06-06": 0
+    }
   },
   {
     "name": "Pomelo",
