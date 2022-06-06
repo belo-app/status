@@ -28,19 +28,19 @@
     "url": "https://api.getmati.com/health",
     "icon": "https://favicons.githubusercontent.com/api.getmati.com",
     "slug": "meta-map",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 174,
-    "timeWeek": 173,
-    "timeMonth": 189,
-    "timeYear": 158,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 157,
+    "timeDay": 154,
+    "timeWeek": 164,
+    "timeMonth": 185,
+    "timeYear": 157,
     "dailyMinutesDown": {
-      "2022-06-06": 0
+      "2022-06-06": 28
     }
   },
   {
