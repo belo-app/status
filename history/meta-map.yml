@@ -1,7 +1,7 @@
 url: https://api.getmati.com/health
-status: down
-code: 502
-responseTime: 86
-lastUpdated: 2022-06-06T14:30:30.338Z
+status: up
+code: 200
+responseTime: 394
+lastUpdated: 2022-06-06T14:36:58.563Z
 startTime: Wed Mar 16 2022 16:25:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
