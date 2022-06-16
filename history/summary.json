@@ -48,19 +48,19 @@
     "url": "https://api.pomelo.la/ping",
     "icon": "https://favicons.githubusercontent.com/api.pomelo.la",
     "slug": "pomelo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 179,
-    "timeWeek": 267,
-    "timeMonth": 265,
-    "timeYear": 217,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 216,
+    "timeDay": 160,
+    "timeWeek": 251,
+    "timeMonth": 261,
+    "timeYear": 216,
     "dailyMinutesDown": {
-      "2022-06-16": 0
+      "2022-06-16": 8
     }
   }
 ]
