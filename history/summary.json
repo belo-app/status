@@ -49,7 +49,7 @@
     "url": "https://api.pomelo.la/ping",
     "icon": "https://favicons.githubusercontent.com/api.pomelo.la",
     "slug": "pomelo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "98.28%",
     "uptimeWeek": "99.75%",
