@@ -4,18 +4,19 @@
     "url": "https://api.belo.app/health",
     "icon": "https://favicons.githubusercontent.com/api.belo.app",
     "slug": "belo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.80%",
-    "time": 618,
-    "timeDay": 246,
-    "timeWeek": 273,
-    "timeMonth": 499,
-    "timeYear": 618,
+    "time": 621,
+    "timeDay": 613,
+    "timeWeek": 361,
+    "timeMonth": 511,
+    "timeYear": 621,
     "dailyMinutesDown": {
+      "2022-06-21": 2,
       "2022-05-27": 112,
       "2022-05-17": 18,
       "2022-05-11": 199,
@@ -48,9 +49,9 @@
     "url": "https://api.pomelo.la/ping",
     "icon": "https://favicons.githubusercontent.com/api.pomelo.la",
     "slug": "pomelo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -59,6 +60,8 @@
     "timeWeek": 214,
     "timeMonth": 252,
     "timeYear": 219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   }
 ]
