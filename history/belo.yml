@@ -1,7 +1,7 @@
 url: https://api.belo.app/health
-status: down
-code: 500
-responseTime: 10307
-lastUpdated: 2022-06-21T07:46:58.398Z
+status: up
+code: 200
+responseTime: 3957
+lastUpdated: 2022-06-21T08:36:34.075Z
 startTime: Tue Feb 01 2022 19:29:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
